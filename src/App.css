@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;  
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  width: 100vw;
+  height: 250vh;
+  
+}
+
+#root {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+#container{
+  display: flex;
+  padding: 50px;
+  gap: 20px;
+  justify-content: center;
+}

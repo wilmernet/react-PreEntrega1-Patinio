@@ -1,0 +1,7 @@
+#ItemListContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #333;    
+    color: white;
+}

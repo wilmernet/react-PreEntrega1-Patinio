@@ -1,0 +1,27 @@
+#Categories{    
+    max-width: 200px;
+    border: solid #333;
+    border-radius: 15px;
+    background-color: gray;
+    color: white;    
+}
+
+#CategoriesTitle{
+    padding: 20px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#CategoriesDescription{
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#seccion{
+    display: flex;
+    justify-content: center;    
+    margin: 10px;
+}
